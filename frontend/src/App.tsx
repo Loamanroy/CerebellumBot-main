@@ -151,7 +151,7 @@ function LandingPage() {
           viewport={{ once: true }}
         >
           <h2 className="text-3xl font-semibold text-[#00FFD1] mb-4 text-center">
-            🤖 Что такое CerebellumBot vX
+             Что такое CerebellumBot vX
           </h2>
           <p className="text-[#F2F2F2] max-w-3xl mx-auto mb-6">
             Автономный AI-маркет-мейкер и HFT-система с нативной поддержкой DeFi, CEX, OTC и ZKP. 
@@ -162,7 +162,7 @@ function LandingPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
             <Card className="bg-[#101112] border-gray-800">
               <CardHeader>
-                <CardTitle className="text-[#00FFD1]">🔁 Кросс-биржевой арбитраж</CardTitle>
+                <CardTitle className="text-[#00FFD1]">Кросс-биржевой арбитраж</CardTitle>
               </CardHeader>
               <CardContent>
                 <p className="text-[#999]">CEX + DEX интеграция для максимальной прибыли</p>
@@ -171,7 +171,7 @@ function LandingPage() {
             
             <Card className="bg-[#101112] border-gray-800">
               <CardHeader>
-                <CardTitle className="text-[#00FFD1]">🔒 Анонимность</CardTitle>
+                <CardTitle className="text-[#00FFD1]">Анонимность</CardTitle>
               </CardHeader>
               <CardContent>
                 <p className="text-[#999]">ZKP и TOR Layer для полной конфиденциальности</p>
@@ -180,7 +180,7 @@ function LandingPage() {
             
             <Card className="bg-[#101112] border-gray-800">
               <CardHeader>
-                <CardTitle className="text-[#00FFD1]">🧠 AI-прогнозирование</CardTitle>
+                <CardTitle className="text-[#00FFD1]">AI-прогнозирование</CardTitle>
               </CardHeader>
               <CardContent>
                 <p className="text-[#999]">Самообучающиеся алгоритмы и предиктивная аналитика</p>
@@ -213,7 +213,7 @@ function LandingPage() {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl font-semibold text-[#00FFD1] mb-6 text-center">🧱 Архитектура</h2>
+          <h2 className="text-3xl font-semibold text-[#00FFD1] mb-6 text-center">Архитектура</h2>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-6xl mx-auto">
             <div>
               <ul className="space-y-3 text-[#F2F2F2]">
@@ -274,7 +274,7 @@ function LandingPage() {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl font-semibold text-[#00FFD1] mb-6 text-center">📈 Инвест-модель</h2>
+          <h2 className="text-3xl font-semibold text-[#00FFD1] mb-6 text-center"> Инвест-модель</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
             <Card className="bg-[#101112] border-gray-800">
               <CardHeader>
@@ -326,7 +326,7 @@ function LandingPage() {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl font-semibold text-[#00FFD1] mb-6 text-center">🔐 Режим «Паранойя»</h2>
+          <h2 className="text-3xl font-semibold text-[#00FFD1] mb-6 text-center"> Режим «Паранойя»</h2>
           <div className="bg-[#101112] p-8 rounded-lg border border-gray-800 max-w-4xl mx-auto">
             <p className="text-[#F2F2F2] mb-6">
               Цифровая невидимость для максимальной безопасности торговых операций
@@ -360,7 +360,7 @@ function LandingPage() {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl font-semibold text-[#00FFD1] mb-6 text-center">🗺 Дорожная карта</h2>
+          <h2 className="text-3xl font-semibold text-[#00FFD1] mb-6 text-center">Дорожная карта</h2>
           <div className="max-w-4xl mx-auto">
             <div className="space-y-6">
               <div className="flex items-center space-x-4">
@@ -406,7 +406,7 @@ function LandingPage() {
               viewport={{ once: true }}
               className="text-center lg:text-left"
             >
-              <h2 className="text-2xl font-semibold text-[#00FFD1] mb-6">💬 Контакты</h2>
+              <h2 className="text-2xl font-semibold text-[#00FFD1] mb-6"> Контакты</h2>
               <div className="space-y-2 text-[#F2F2F2]">
                 <p>Telegram: <a href="https://t.me/YourHandle" className="text-[#00FFD1] hover:underline">@YourHandle</a></p>
                 <p>Email: <a href="mailto:founder@cerebellumbot.ai" className="text-[#00FFD1] hover:underline">founder@cerebellumbot.ai</a></p>
